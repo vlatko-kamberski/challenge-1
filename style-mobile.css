@@ -40,6 +40,7 @@ p {
 	background-image: url("images/bg-pattern-bottom-mobile.svg");
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	text-align: center;
 }
 
 .rating-1 {
@@ -76,7 +77,7 @@ p {
 .testimonial-1 {
 	background-color: hsl(300, 43%, 22%);
 	color: white;
-	padding: 0px;
+	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
@@ -85,7 +86,7 @@ p {
 .testimonial-2 {
 	background-color: hsl(300, 43%, 22%);
 	color: white;
-	padding: 0px;
+	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
@@ -94,7 +95,7 @@ p {
 .testimonial-3 {
 	background-color: hsl(300, 43%, 22%);
 	color: white;
-	padding: 0px;
+	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
