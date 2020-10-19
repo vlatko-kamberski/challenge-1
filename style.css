@@ -37,13 +37,13 @@ p {
 }
 
 .left-container {
-	width: 45%;
+	width: 35%;
 	display: inline-block;
 	margin-left: 20px;
 }
 
 .right-container {
-	width: 45%;
+	width: 65%;
 	display: inline-block;
 }
 
@@ -52,6 +52,10 @@ p {
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	padding: 0px 10px;
+}
+
+.rating-text {
+	margin-left: 20px;
 }
 
 .rating-1 {
