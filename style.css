@@ -40,6 +40,7 @@ p {
 	width: 35%;
 	display: inline-block;
 	padding: 20px;
+	position: relative;
 }
 
 .right-container {
@@ -79,8 +80,8 @@ p {
 	text-align: left;
 	width: 370px;
 	position: absolute:
-	left: 100px;
-	top: 100px;
+	left: 50px;
+	top: 50px;
 }
 
 .rating-3 {
@@ -91,8 +92,8 @@ p {
 	text-align: left;
 	width: 370px;
 	position: absolute;
-	left: 200px;
-	top: 200px;
+	left: 100px;
+	top: 100px;
 }
 
 .profile-pic {
