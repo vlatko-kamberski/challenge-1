@@ -39,63 +39,31 @@ p {
 	background-image: url("images/bg-pattern-bottom-desktop.svg");
 	background-repeat: no-repeat;
 	background-position: right bottom;
-	padding: 0px 20px;
-}
-
-.ratings {	
-	display: inline-block;
-	text-align: center;
-	height: 350px;
-	width: 50%;
-	margin-left: 20px;
-	margin-right: 20px;
+	padding: 0px 10px;
 }
 
 .rating-1 {
-	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
 	border-radius: 10px;
-	margin: 10px;
-}
-
-.rating-1-pos {
-	width: 100%;
-	height: 90px;
-	text-align: left;
-}
-
-.rating-2-pos {
-	width: 100%;
-	height: 90px;
+	margin: 10px 0px;
 	text-align: center;
 }
 
 .rating-2 {
-	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
 	border-radius: 10px;
-	margin: 10px;
-	text-align:left;
-}
-
-.rating-3-pos {
-	width: 100%;
-	height: 90px;
-	text-align: right;
+	margin: 10px 0px;
+	text-align: center;
 }
 
 .rating-3 {
-	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
 	border-radius: 10px;
-	margin: 10px;
-	text-align: left;
+	margin: 10px 0px;
+	text-align: center;
 }
 
 .profile-pic {
