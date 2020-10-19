@@ -65,7 +65,10 @@ p {
 	border-radius: 10px;
 	margin: 10px 0px;
 	text-align: left;
-	width: 3700px;
+	width: 370px;
+	position: absolute;
+	left: 0;
+	top: 0;
 }
 
 .rating-2 {
@@ -75,6 +78,9 @@ p {
 	margin: 10px 0px;
 	text-align: left;
 	width: 370px;
+	position: absolute:
+	left: 100px;
+	top: 100px;
 }
 
 .rating-3 {
@@ -84,6 +90,9 @@ p {
 	margin: 10px 0px;
 	text-align: left;
 	width: 370px;
+	position: absolute;
+	left: 200px;
+	top: 200px;
 }
 
 .profile-pic {
