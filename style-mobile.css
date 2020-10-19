@@ -18,7 +18,7 @@ h1 {
 h2 {
 	font-weight: 500;
 	font-size: 15px;
-	margin: 10px 0px 0px 0px;
+	margin: 20px 0px 0px 0px;
 }
 
 h3 {
@@ -33,18 +33,13 @@ p {
 	line-height: 2;
  	margin: 10px 0px 0px 0px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 }
 
 .content-box {
 	background-image: url("images/bg-pattern-bottom-mobile.svg");
 	background-repeat: no-repeat;
 	background-position: right bottom;
-}
-
-.main-text {
-	margin: 0px 0px 20px 0px;
-	text-align: center;
 }
 
 .rating-1 {
