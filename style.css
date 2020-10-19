@@ -45,9 +45,6 @@ p {
 .right-container {
 	width: 55%;
 	display: inline-block;
-	padding: 20px;
-	position: relative;
-	height: 300px;
 }
 
 .content-box {
@@ -68,9 +65,6 @@ p {
 	margin: 10px 0px;
 	text-align: left;
 	width: 370px;
-	position: absolute;
-	left: 0;
-	top: 0;
 }
 
 .rating-2 {
@@ -80,9 +74,6 @@ p {
 	margin: 10px 0px;
 	text-align: left;
 	width: 370px;
-	position: absolute:
-	left: 50px;
-	top: 50px;
 }
 
 .rating-3 {
@@ -92,9 +83,6 @@ p {
 	margin: 10px 0px;
 	text-align: left;
 	width: 370px;
-	position: absolute;
-	left: 100px;
-	top: 100px;
 }
 
 .profile-pic {
