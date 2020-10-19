@@ -84,8 +84,7 @@ p {
 	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
-	margin: 20px 0px;
-	height: 200px;
+	margin: 10px 0px;
 }
 
 .testimonial-2 {
@@ -94,8 +93,7 @@ p {
 	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
-	margin: 20px 0px;
-	height: 190px;
+	margin: 10px 0px;
 }
 
 .testimonial-3 {
@@ -104,12 +102,11 @@ p {
 	padding: 10px;
 	border-radius: 10px;
 	text-align: left;
-	margin: 20px 0px;
-	height: 180px;
+	margin: 10px 0px;
 }
 
 .attribution {
 	font-size: 12px;
-	margin: 15px;
+	margin: 30px 15px 15px 15px;
 	text-align: center;
 }
