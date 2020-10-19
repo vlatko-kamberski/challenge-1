@@ -133,7 +133,7 @@ p {
 }
 
 .testimonial-1 {
-	width: 335px;
+	width: 100%;
 	background-color: hsl(300, 43%, 22%);
 	color: white;
 	padding: 30px;
@@ -145,7 +145,7 @@ p {
 }
 
 .testimonial-2 {
-	width: 335px;
+	width: 100%;
 	background-color: hsl(300, 43%, 22%);
 	color: white;
 	padding: 30px;
@@ -159,7 +159,7 @@ p {
 }
 
 .testimonial-3 {
-	width: 335px;
+	width: 100%;
 	background-color: hsl(300, 43%, 22%);
 	color: white;
 	padding: 30px;
@@ -175,5 +175,4 @@ p {
 .attribution {
 	font-size: 12px;
 	margin: 15px;
-	text-align: center;
 }
