@@ -9,10 +9,9 @@ body {
 }
 
 h1 {
-	width: 450px;
-	font-size: 48px;
+	width: 100%;
+	font-size: 24px;
 	margin:0;
-	color: blue;
 }
 
 h2 {
@@ -47,7 +46,7 @@ p {
 }
 
 .main-text {
-	width: 450px;
+	width: 100%;
 	display: inline-block;
 	margin-top: 20px;
 }
@@ -63,18 +62,15 @@ p {
 
 .headline {
 	text-align: left;
-	width: 450px;
-	height: 300px;
+	width: 100%;
 	display: inline-block;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .ratings {	
 	display: inline-block;
 	text-align: center;
-	height: 350px;
-	width: 50%;
 	margin-left: 20px;
 	margin-right: 20px;
 }
@@ -83,7 +79,7 @@ p {
 	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
+	width: 355px;
 	border-radius: 10px;
 	margin: 10px;
 }
@@ -104,7 +100,7 @@ p {
 	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
+	width: 355px;
 	border-radius: 10px;
 	margin: 10px;
 	text-align:left;
@@ -120,7 +116,7 @@ p {
 	display: inline-block;
 	background-color: hsl(300, 24%, 96%);
 	padding: 10px 30px;
-	width: 380px;
+	width: 3550px;
 	border-radius: 10px;
 	margin: 10px;
 	text-align: left;
