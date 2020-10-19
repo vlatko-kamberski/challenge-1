@@ -35,6 +35,16 @@ p {
 	text-align: center;
 }
 
+.left-container {
+	width: 45%;
+	display: inline-block;
+}
+
+.right-container {
+	width: 45%
+	display: inline-block;
+}
+
 .content-box {
 	background-image: url("images/bg-pattern-bottom-desktop.svg");
 	background-repeat: no-repeat;
