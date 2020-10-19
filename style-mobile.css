@@ -74,6 +74,10 @@ p {
 	width: 60px;
 }
 
+.testimonial-text {
+	text-align: left;
+}
+
 .testimonial-1 {
 	background-color: hsl(300, 43%, 22%);
 	color: white;
@@ -81,6 +85,7 @@ p {
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
+	height: 90px;
 }
 
 .testimonial-2 {
@@ -90,6 +95,7 @@ p {
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
+	height: 90px;
 }
 
 .testimonial-3 {
@@ -99,6 +105,7 @@ p {
 	border-radius: 10px;
 	text-align: left;
 	margin: 20px 0px;
+	height: 90px;
 }
 
 .attribution {
