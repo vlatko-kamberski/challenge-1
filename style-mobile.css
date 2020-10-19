@@ -46,7 +46,7 @@ p {
 .rating-1 {
 	background-color: hsl(300, 24%, 96%);
 	border-radius: 10px;
-	margin: 10px 0px;
+	margin: 20px 0px;
 	text-align: center;
 	padding: 20px 30px;
 }
@@ -54,7 +54,7 @@ p {
 .rating-2 {
 	background-color: hsl(300, 24%, 96%);
 	border-radius: 10px;
-	margin: 10px 0px;
+	margin: 20px 0px;
 	text-align: center;
 	padding: 20px 30px;
 }
@@ -62,7 +62,7 @@ p {
 .rating-3 {
 	background-color: hsl(300, 24%, 96%);
 	border-radius: 10px;
-	margin: 10px 0px;
+	margin: 20px 0px;
 	text-align: center;
 	padding: 20px 30px;
 }
